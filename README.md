@@ -6,4 +6,4 @@ In this, the system estimates how many cars will be sold in a given month, which
 ![4](https://user-images.githubusercontent.com/55710267/158029480-a025fec3-3697-4795-8f30-472f563e86b8.png)
 
 
-How to run : https://youtu.be/GPgHTCcq3yE
+
